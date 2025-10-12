@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**SuperCHIROK1/SuperCHIROK1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **SuperCHIROK1** — founder of [**@HahaWorldMC**](https://github.com/HahaWorldMC) and [**Thronix**](https://t.me/thronixmc).  
+Thronix resources and related projects are available in the [@HahaWorldMC](https://github.com/HahaWorldMC).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ Knowledge
+**Java** · **HTML** · **CSS** · **Figma**
+
+---
+
+### 🌍 Connect
+- GitHub: [@HahaWorldMC](https://github.com/HahaWorldMC)
+- Telegram: [@bordyer](https://t.me/bordyer)
+- Telegram Channel: [@SuperCHIROK1](https://t.me/SuperCHIROK1)
+
+---
+
+> “Code. Create. Inspire.” 💡
