@@ -1,23 +1,22 @@
 # Hi there! 👋
 
-I'm **SuperCHIROK1** — founder of [**@HahaWorldMC**](https://github.com/HahaWorldMC) and [**Thronix**](https://t.me/thronixmc).  
-Thronix resources and related projects are available in the [@HahaWorldMC](https://github.com/HahaWorldMC).
+I'm **SuperCHIROK1** — founder of [**@Shinemakers**](https://guthub.com/Shinemakers), [**HahaWorld**](https://t.me/hahaworldmine) and [**Thronix**](https://t.me/thronixmc).  
 
 ---
 
-### ✨ Knowledge
+### Knowledge
 **Java** · **HTML** · **CSS** · **Figma**
 
 ---
 
-### 🌍 Connect
+### Connect
 - GitHub: [@HahaWorldMC](https://github.com/HahaWorldMC)
 - Telegram: [@bordyer](https://t.me/bordyer)
 - Telegram Channel: [@SuperCHIROK1](https://t.me/SuperCHIROK1)
 
 ---
 
-### ⚙️ GitHub Stats
+### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuperCHIROK1&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperCHIROK1&layout=compact&theme=tokyonight)
