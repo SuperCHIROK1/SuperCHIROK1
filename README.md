@@ -2,7 +2,7 @@
 
 ### 👋 Hi there! 
 
-I`m **SuperCHIROK1** - founder of [**@Shinemakers**](https://github.com/Shinemakers)<br>
+I`m **SuperCHIROK1** - founder of [**@BoxedThings**](https://github.com/BoxedThings)<br>
 I am a developer of Minecraft servers and plugins for them. I have several Minecraft projects ([HahaWorld](https://t.me/hahaworldmine), [Thronix](https://t.me/thronixmc))
 I know several languages ​​(maybe not perfectly, but I know)
 - 🇷🇺 **Russian**
